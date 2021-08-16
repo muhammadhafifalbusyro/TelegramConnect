@@ -15,7 +15,7 @@ function App() {
         </p>
         <TelegramLoginButton
           dataOnauth={handleTelegramResponse}
-          botName="OdauBot"
+          botName="xtremex_bot"
         />
       </header>
     </div>
